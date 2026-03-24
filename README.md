@@ -173,5 +173,16 @@ Key concepts based on:
 - Anomaly detection in time-series data
 - MR collaboration and proxemics research
 
+M. Munir, M. A. Chattha, A. Dengel and S. Ahmed, "A Comparative Analysis of Traditional and Deep Learning-Based Anomaly Detection Methods for Streaming Data," 2019 18th IEEE International Conference On Machine Learning And Applications (ICMLA), Boca Raton, FL, USA, 2019, pp. 561-566, doi: 10.1109/ICMLA.2019.00105.
+
+Liu, F. T., Ting, K. M., and Zhou, Z.-H. 2012. Isolation-based anomaly detection. ACM Trans. Knowl. Discov. Data 6, 1, Article 3 (March 2012), 39 pages. DOI = 10.1145/2133360.2133363 http://doi.acm.org/10.1145/2133360.2133363
+
+Kim, I., & Sung, J. (2024). New proxemics in new space: proxemics in VR. Virtual Reality, 28, 85. https://doi.org/10.1007/s10055-024-00982-5.
+
+Richardson, D. C., & Dale, R. (2005). Looking To Understand: The Coupling Between Speakers' and Listeners' Eye Movements and Its Relationship to Discourse Comprehension. Cognitive Science, 29(6), 1045–1060
+
+Nidhi Ahlawat and Amit Awekar. 2024. Incremental Isolation Forest to Handle Concept Drift in Anomaly Detection. In 7th Joint International Conference on Data Science & Management of Data (11th ACM IKDD CODS and 29th COMAD) (CODS-COMAD 2024), January 04–07, 2024, Bangalore, India. ACM, New York, NY, USA, 2 pages. https://doi.org/10.1145/3632410. 3632486
+
+
 ---
 
