@@ -175,4 +175,3 @@ Key concepts based on:
 
 ---
 
-## 📂 Repository Structure (example)
